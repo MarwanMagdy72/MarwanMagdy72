@@ -1,6 +1,10 @@
 <div align="center">
   <a  href="https://www.linkedin.com/in/marwan-magdy72"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F77091&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+Marwan+Magdy+%F0%9F%91%8B;Frontend+Developer;React+%26+Next.js+Specialist;Welcome+to+my+profile!" alt="Typing SVG" /></a>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=Building%20Digital%20Experiences&fontSize=50&fontAlignY=40&desc=Passionate%20Frontend%20Developer%20|%20React%20Expert%20|%20JavaScript%20Enthusiast&descSize=20&descAlignY=60&animation=fadeIn" width="100%" />
+
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-bottom: 30px;">  <div style="background: linear-gradient(135deg, #1e1e2e10, #2d2b5520); border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 100%; max-width: 1000px; margin: 0 auto; transition: all 0.3s ease;">    <h3>🔧 Technical Skills</h3>    <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 15px;">      <span class="tech-badge" style="background: #61DAFB; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">React.js</span>      <span class="tech-badge" style="background: #000000; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Next.js</span>      <span class="tech-badge" style="background: #F57C00; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Firebase</span>      <span class="tech-badge" style="background: #764ABC; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Redux</span>      <span class="tech-badge" style="background: #2ecc71; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">React Query</span>      <span class="tech-badge" style="background: #00D8FF; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">React QueryBuilder</span>      <span class="tech-badge" style="background: #026AA7; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">React DnD</span>      <span class="tech-badge" style="background: #0052CC; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Formik</span>      <span class="tech-badge" style="background: #4285F4; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Yup</span>      <span class="tech-badge" style="background: #F24E1E; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Figma</span>      <span class="tech-badge" style="background: #3498db; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">JavaScript ES6+</span>      <span class="tech-badge" style="background: #E34F26; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">HTML5</span>      <span class="tech-badge" style="background: #1572B6; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">CSS3</span>      <span class="tech-badge" style="background: #CC6699; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">SASS</span>      <span class="tech-badge" style="background: #7952B3; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Bootstrap 5</span>      <span class="tech-badge" style="background: #0081CB; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Material-UI</span>      <span class="tech-badge" style="background: #F05032; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Git</span>      <span class="tech-badge" style="background: #181717; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">GitHub</span>      <span class="tech-badge" style="background: #0096D6; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">API Integration</span>      <span class="tech-badge" style="background: #8DD6F9; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Webpack</span>      <span class="tech-badge" style="background: #2C8EBB; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Regular Expressions</span>      <span class="tech-badge" style="background: #47A248; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">SEO</span>      <span class="tech-badge" style="background: #26689A; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">i18next</span>    </div>        <h3 style="margin-top: 20px;">🧠 Soft Skills</h3>    <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 15px;">      <span class="tech-badge" style="background: #9b59b6; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Problem-Solving</span>      <span class="tech-badge" style="background: #3498db; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Communication</span>      <span class="tech-badge" style="background: #2ecc71; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Teamwork</span>      <span class="tech-badge" style="background: #e74c3c; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Critical Thinking</span>      <span class="tech-badge" style="background: #f39c12; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Creativity</span>      <span class="tech-badge" style="background: #16a085; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Research & Analytics</span>      <span class="tech-badge" style="background: #8e44ad; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Continuous Learning</span>      <span class="tech-badge" style="background: #2c3e50; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Time Management</span>      <span class="tech-badge" style="background: #d35400; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Leadership</span>      <span class="tech-badge" style="background: #27ae60; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Adaptability</span>      <span class="tech-badge" style="background: #7f8c8d; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Attention to Detail</span>    </div>        <h3 style="margin-top: 20px;">🌍 Languages</h3>    <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 15px;">      <span class="tech-badge" style="background: #3498db; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Arabic (Fluent)</span>      <span class="tech-badge" style="background: #9b59b6; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">English (Intermediate)</span>    </div>  </div></div>
+
+
 </div>
 
 <div align="center">
@@ -194,66 +198,6 @@ A passionate <strong>Frontend Developer</strong> with expertise in building resp
   </div>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  <h1 id="featured-projects">🏆 Featured Projects</h1>
-</div>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 30px;">
-  <div style="flex: 1 1 calc(50% - 20px); min-width: 300px; max-width: 550px; background: linear-gradient(135deg, #1e1e2e10, #2d2b5520); border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: all 0.3s ease; position: relative; overflow: hidden; border: 1px solid rgba(255,255,255,0.05);">
-    <h3>🤖 Ad Management Automation Bot</h3>
-    <p>A sophisticated solution for automated ad campaign management with intuitive interface.</p>
-    <ul>
-      <li>Developed and maintained a bot to automate ad management tasks and streamline operations</li>
-      <li>Implemented dynamic drag-and-drop functionality using React DnD for campaign organization</li>
-      <li>Created complex query interfaces with React QueryBuilder for advanced filtering</li>
-      <li>Built a responsive and accessible UI with Material-UI components and Context API</li>
-    </ul>
-    <div style="margin-top: 10px;">
-      <span style="background: #3498db; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px; margin-bottom: 5px; display: inline-block;">React.js</span>
-      <span style="background: #9b59b6; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px; margin-bottom: 5px; display: inline-block;">React Query</span>
-      <span style="background: #2ecc71; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px; margin-bottom: 5px; display: inline-block;">React DnD</span>
-      <span style="background: #34495e; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px; margin-bottom: 5px; display: inline-block;">MUI</span>
-    </div>
-
-  </div>
-
-  <div style="flex: 1 1 calc(50% - 20px); min-width: 300px; max-width: 550px; background: linear-gradient(135deg, #1e1e2e10, #2d2b5520); border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: all 0.3s ease; position: relative; overflow: hidden; border: 1px solid rgba(255,255,255,0.05);">
-    <h3>🛒 Ecommerce Web Application</h3>
-    <p>Performance-focused React platform with Meta Pixel integration for enhanced user tracking.</p>
-    <ul>
-      <li>Architected a component-based structure with dynamic routing and Core Web Vitals optimization</li>
-      <li>Implemented Meta Pixel integration for comprehensive user behavior tracking</li>
-      <li>Engineered custom hooks and reusable UI components following React best practices</li>
-      <li>Optimized CLS handling resulting in improved load times and seamless user interactions</li>
-    </ul>
-    <div style="margin-top: 10px;">
-      <span style="background: #3498db; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px; margin-bottom: 5px; display: inline-block;">React</span>
-      <span style="background: #9b59b6; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px; margin-bottom: 5px; display: inline-block;">Vite</span>
-      <span style="background: #2ecc71; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px; margin-bottom: 5px; display: inline-block;">React Query</span>
-      <span style="background: #e74c3c; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px; margin-bottom: 5px; display: inline-block;">Framer Motion</span>
-    </div>
-
-  </div>
-
-  <div style="flex: 1 1 calc(50% - 20px); min-width: 300px; max-width: 550px; background: linear-gradient(135deg, #1e1e2e10, #2d2b5520); border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: all 0.3s ease; position: relative; overflow: hidden; border: 1px solid rgba(255,255,255,0.05);">
-    <h3>💬 Realtime Chat Platform</h3>
-    <p>Next.js and Firebase-powered messaging platform with real-time updates and responsive design.</p>
-    <ul>
-      <li>Built comprehensive user profiles and message history persistence</li>
-      <li>Implemented real-time online status tracking and message delivery</li>
-      <li>Designed intuitive navigation and responsive UI for cross-device consistency</li>
-      <li>Created a modern interface that provides seamless experience on desktop and mobile</li>
-    </ul>
-    <div style="margin-top: 10px;">
-      <span style="background: #000000; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px; margin-bottom: 5px; display: inline-block;">Next.js</span>
-      <span style="background: #F57C00; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px; margin-bottom: 5px; display: inline-block;">Firebase</span>
-      <span style="background: #3498db; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px; margin-bottom: 5px; display: inline-block;">Real-time</span>
-    </div>
-
-  </div>
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -263,8 +207,7 @@ A passionate <strong>Frontend Developer</strong> with expertise in building resp
 
 <div align="center" style="margin-bottom: 30px;">
   <div style="background: linear-gradient(135deg, #1e1e2e10, #2d2b5520); border-radius: 10px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); max-width: 700px; margin: 0 auto; transition: all 0.3s ease;">
-    <img height="100" src="https://media.licdn.com/dms/image/D4D0BAQEPOHRQqs4wnQ/company-logo_200_200/0/1695626150917?e=2147483647&v=beta&t=gGYHfrnoTi-BYd0Ho68nz5ehf7o7BS8R7ON-osUJNQs" />
-    <h3>Bachelor of Computer Science</h3>
+    <h1>Bachelor of Computer Science</h1>
     <p><strong>Faculty of Computers and Informatics, Tanta University</strong> | 2021 - 2024</p>
     <p><i>Tanta, Egypt</i></p>
   </div>
@@ -272,16 +215,6 @@ A passionate <strong>Frontend Developer</strong> with expertise in building resp
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  <h1 id="skills--technologies">💼 Skills & Technologies</h1>
-</div>
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-bottom: 30px;">  <div style="background: linear-gradient(135deg, #1e1e2e10, #2d2b5520); border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 100%; max-width: 1000px; margin: 0 auto; transition: all 0.3s ease;">    <h3>🔧 Technical Skills</h3>    <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 15px;">      <span class="tech-badge" style="background: #61DAFB; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">React.js</span>      <span class="tech-badge" style="background: #000000; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Next.js</span>      <span class="tech-badge" style="background: #F57C00; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Firebase</span>      <span class="tech-badge" style="background: #764ABC; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Redux</span>      <span class="tech-badge" style="background: #2ecc71; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">React Query</span>      <span class="tech-badge" style="background: #00D8FF; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">React QueryBuilder</span>      <span class="tech-badge" style="background: #026AA7; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">React DnD</span>      <span class="tech-badge" style="background: #0052CC; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Formik</span>      <span class="tech-badge" style="background: #4285F4; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Yup</span>      <span class="tech-badge" style="background: #F24E1E; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Figma</span>      <span class="tech-badge" style="background: #3498db; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">JavaScript ES6+</span>      <span class="tech-badge" style="background: #E34F26; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">HTML5</span>      <span class="tech-badge" style="background: #1572B6; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">CSS3</span>      <span class="tech-badge" style="background: #CC6699; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">SASS</span>      <span class="tech-badge" style="background: #7952B3; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Bootstrap 5</span>      <span class="tech-badge" style="background: #0081CB; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Material-UI</span>      <span class="tech-badge" style="background: #F05032; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Git</span>      <span class="tech-badge" style="background: #181717; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">GitHub</span>      <span class="tech-badge" style="background: #0096D6; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">API Integration</span>      <span class="tech-badge" style="background: #8DD6F9; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Webpack</span>      <span class="tech-badge" style="background: #2C8EBB; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Regular Expressions</span>      <span class="tech-badge" style="background: #47A248; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">SEO</span>      <span class="tech-badge" style="background: #26689A; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">i18next</span>    </div>        <h3 style="margin-top: 20px;">🧠 Soft Skills</h3>    <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 15px;">      <span class="tech-badge" style="background: #9b59b6; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Problem-Solving</span>      <span class="tech-badge" style="background: #3498db; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Communication</span>      <span class="tech-badge" style="background: #2ecc71; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Teamwork</span>      <span class="tech-badge" style="background: #e74c3c; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Critical Thinking</span>      <span class="tech-badge" style="background: #f39c12; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Creativity</span>      <span class="tech-badge" style="background: #16a085; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Research & Analytics</span>      <span class="tech-badge" style="background: #8e44ad; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Continuous Learning</span>      <span class="tech-badge" style="background: #2c3e50; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Time Management</span>      <span class="tech-badge" style="background: #d35400; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Leadership</span>      <span class="tech-badge" style="background: #27ae60; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Adaptability</span>      <span class="tech-badge" style="background: #7f8c8d; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Attention to Detail</span>    </div>        <h3 style="margin-top: 20px;">🌍 Languages</h3>    <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 15px;">      <span class="tech-badge" style="background: #3498db; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Arabic (Fluent)</span>      <span class="tech-badge" style="background: #9b59b6; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">English (Intermediate)</span>    </div>  </div></div>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <br/>
 
 
