@@ -106,24 +106,24 @@
 <div align="center">
   <h1 id="lets-connect">🤝 Let's Connect</h1>
 </div>
-<p align="center" style="display:flex; gap:15px; justify-content:center; align-items:center; width:100%;">
-  <a href="https://www.linkedin.com/in/marwan-magdy72" target="_blank" style="border-radius:4px">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"style="border-radius:4px" />
+<p align="center" style="display:flex; gap:30px; justify-content:center; align-items:center; padding:20px; border-radius:8px;">
+  <a href="https://www.linkedin.com/in/marwan-magdy72" target="_blank" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="filter: invert(100%);" />
   </a>
-  <a href="mailto:marawanmagdy389@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"  style="border-radius:4px"/>
+  <a href="mailto:marawanmagdy389@gmail.com" title="Gmail">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="30" height="30" style="filter: invert(100%);" />
   </a>
-  <a href="tel:+201201439402">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" style="border-radius:4px"/>
+  <a href="tel:+201201439402" title="Phone">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" alt="Phone" width="30" height="30" style="filter: invert(100%);" />
   </a>
-  <a href="https://stackoverflow.com/users/30598957/marawan-magdy" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"style="border-radius:4px" />
+  <a href="https://stackoverflow.com/users/30598957/marawan-magdy" target="_blank" title="Stack Overflow">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/stackoverflow.svg" alt="Stack Overflow" width="30" height="30" style="filter: invert(100%);" />
   </a>
-  <a href="https://github.com/MarwanMagdy72" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius:4px" />
+  <a href="https://github.com/MarwanMagdy72" target="_blank" title="GitHub">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="30" height="30" style="filter: invert(100%);" />
   </a>
-
 </p>
+
 
 <br />
 
