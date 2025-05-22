@@ -106,20 +106,20 @@
 <div align="center">
   <h1 id="lets-connect">🤝 Let's Connect</h1>
 </div>
-<p align="center" style="display:flex; justify-content:center; align-items:center; gap:25px;" >
-  <a href="https://www.linkedin.com/in/marwan-magdy72" target="_blank" title="LinkedIn">
+<p align="center"  >
+  <a href="https://www.linkedin.com/in/marwan-magdy72" target="_blank" title="LinkedIn" style="margin-right:20px;" >
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" width="75" />
   </a>
-  <a href="mailto:marawanmagdy389@gmail.com" title="Gmail">
+  <a href="mailto:marawanmagdy389@gmail.com" title="Gmail" style="margin-right:20px;" >
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" width="75" />
   </a>
-  <a href="tel:+201201439402" title="Phone">
+  <a href="tel:+201201439402" title="Phone" style="margin-right:20px;">
     <img src="https://img.shields.io/badge/Phone-25D366?style=flat&logo=whatsapp&logoColor=white" width="75" />
   </a>
-  <a href="https://stackoverflow.com/users/30598957/marawan-magdy" target="_blank" title="Stack Overflow">
+  <a href="https://stackoverflow.com/users/30598957/marawan-magdy" target="_blank" title="Stack Overflow" style="margin-right:20px;">
     <img src="https://img.shields.io/badge/StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white" width="130" />
   </a>
-  <a href="https://github.com/MarwanMagdy72" target="_blank" title="GitHub">
+  <a href="https://github.com/MarwanMagdy72" target="_blank" title="GitHub"style="margin-right:20px;" >
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" width="75" />
   </a>
 </p>
