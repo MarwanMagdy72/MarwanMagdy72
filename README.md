@@ -102,7 +102,6 @@
   </picture>
 </div>
 
-
 <div align="center">
   <h1 id="lets-connect">🤝 Let's Connect</h1>
 </div>
@@ -123,8 +122,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" width="75" />
   </a>
 </p>
-
-
 
 <br />
 
@@ -147,7 +144,6 @@ A passionate <strong>Frontend Developer</strong> with expertise in building resp
 - 💬 Ask me about **React, JavaScript, and frontend architecture**
 - ⚡ Fun fact: **I love solving programming puzzles and contributing to tech communities**
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
@@ -156,9 +152,22 @@ A passionate <strong>Frontend Developer</strong> with expertise in building resp
 
 <div class="experience-container" style="display: flex; flex-direction: column; gap: 20px;">
   <div class="experience-card" style="background: linear-gradient(135deg, #1e1e2e10, #2d2b5520); border-radius: 10px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img align="right" src="https://www.arrowsegypt.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.0ce35455.png&w=384&q=75" width="240" />
+    <h3>Frontend Developer at Arrows </h3>
+    <p><i>June 2025 - Present</i> | <i>Cairo, Egypt</i></p>
+   <p>
+   Develop and maintain scalable, high-performance frontend architectures for modern web applications using React.js, ensuring optimal user experience and seamless integration with backend services.
+   </p>
+    <div style="margin-top: 10px;">
+      <span style="background: #3498db; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">React.js</span>
+      <span style="background: #9b59b6; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-right: 5px;">eCommerce</span>
+      <span style="background: #2ecc71; color: #fff; padding: 5px 10px; border-radius: 4px; font-size: 12px;">UI Development</span>
+    </div>
+  </div>
+  <div class="experience-card" style="background: linear-gradient(135deg, #1e1e2e10, #2d2b5520); border-radius: 10px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <img align="right" src="https://dermanes.com/assets/DokkanLogo-DnNlREv-.png" width="240" />
-    <h3>Frontend Developer | Dokkan Agency</h3>
-    <p><i>Jul 2024 - Present</i> | <i>Tanta, Egypt</i></p>
+    <h3>Frontend Developer at Dokkan Agency</h3>
+    <p><i>Jul 2024 - June 2025</i> | <i>Tanta, Egypt</i></p>
     <ul>
       <li>Delivered responsive eCommerce UIs that boosted user engagement and conversion</li>
       <li>Engineered scalable frontend solutions for web apps using React</li>
@@ -174,7 +183,7 @@ A passionate <strong>Frontend Developer</strong> with expertise in building resp
   
   <div class="experience-card" style="background: linear-gradient(135deg, #1e1e2e10, #2d2b5520); border-radius: 10px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN7fsFBW3IQnVWcR3eLxUC-8K2Cy9E-kYWuw&s" width="240" />
-    <h3>Intensive Summer Intern | Information Technology Institute (ITI)</h3>
+    <h3>Intensive Summer Intern at Information Technology Institute (ITI)</h3>
     <p><i>Jul 2023 - Sep 2023</i> | <i>Egypt</i></p>
     <ul>
       <li>Completed intensive training in frontend development technologies and frameworks</li>
@@ -188,7 +197,6 @@ A passionate <strong>Frontend Developer</strong> with expertise in building resp
     </div>
   </div>
 </div>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -204,10 +212,7 @@ A passionate <strong>Frontend Developer</strong> with expertise in building resp
   </div>
 </div>
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
-
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer&animation=fadeIn" width="100%" />
